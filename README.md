@@ -23,9 +23,11 @@
 <p>To run this script, follow the steps below:</p>
 <ol>
 	<li>Install ffmpeg. Instructions can be found <a href="https://ffmpeg.org/download.html">here</a>.</li>
+	<li>Python need to be insatlled and added to path.</li>
 	<li>Download or clone this repository to your local machine.</li>
 	<li>Open a terminal or command prompt and navigate to the root directory of the downloaded repository.</li>
-	<li>Run the following command: <code>frames.py</code></li>
+	<li>Put your video files in .mkv or .mp4 format in the same directory.</li>
+	<li>Run the following command: <code>python frames.py</code></li>
 	<li>The extracted frames with subtitles will be saved in the "frames_output" folder.</li>
 </ol>
 
