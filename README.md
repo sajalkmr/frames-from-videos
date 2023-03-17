@@ -9,11 +9,11 @@
   
   <h2>Sample Output</h2>
 <p>Below is an example of output and a frame extracted with subtitles from a video file using this script:</p>
-<figure>
-  <img src="/screenshot.png" alt="Sample Output">
-  <img src="/frame.png" alt="frame">
+<div>
+  <img src="/screenshot.jpg " width="48%" alt="Sample Output" style="display:inline-block;">
+  <img src="/frame.jpg" width="48%" alt="frame" style="display:inline-block;">
   
-</figure>
+</div>
 
   
   
