@@ -4,7 +4,7 @@
 
 <body>
 	<h1>Extract Video Frames with Subtitles using ffmpeg</h1>
-	<p>This project provides a Python script to extract frames from video files and burn subtitles into the video using the ffmpeg library. The resulting frames are saved as .jpg files in a new subdirectory under the specified output folder.</p>
+	<p>A Python script to extract frames from video files and burn subtitles into the video using the ffmpeg library.</p>
   <br>
   
   <h2>Sample Output</h2>
