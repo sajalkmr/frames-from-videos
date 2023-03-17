@@ -30,7 +30,7 @@
 </ol>
 
 <h2>How it works</h2>
-<p>The Python script, <code>extract_frames_with_subtitles.py</code>, performs the following steps:</p>
+<p>The Python script, <code>frames.py</code>, performs the following steps:</p>
 <ol>
 	<li>Defines the input and output folder paths. The input folder is set to the current working directory, and the output folder is set to a new subdirectory called "frames_output" under the current working directory.</li>
 	<li>Creates the output folder if it does not already exist.</li>
